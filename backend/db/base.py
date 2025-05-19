@@ -2,7 +2,7 @@
 
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import declared_attr
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer
 
 
 class PreBase:
